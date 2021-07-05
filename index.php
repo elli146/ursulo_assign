@@ -13,8 +13,8 @@ echo "<br/>";
 
 
 //array
-$array1 =['white','bw','orange'];
-$array2 =array('white','bw','orange');
+$array1 =['white','bwk','orange'];
+$array2 =array('white','bwk','orange');
 echo $array1[0];
 echo "<br/>";
 echo $array2[2];
@@ -63,3 +63,4 @@ switch ($g){
 	default: 
 	echo "wrong input";
 	}
+	
