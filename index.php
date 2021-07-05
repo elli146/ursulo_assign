@@ -15,7 +15,7 @@ echo "<br/>";
 //array
 $array1 =['white','bwk','orange'];
 $array2 =array('white','bwk','orange');
-echo $array1[0];
+echo $array1[1];
 echo "<br/>";
 echo $array2[2];
 
